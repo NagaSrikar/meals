@@ -1,0 +1,25 @@
+
+/* Services section*/
+#services{
+  flex-direction: column;
+}
+/* navigation*/
+#navbar{
+    flex-direction: column;
+
+}
+#home{
+    height: 480px;
+    flex-direction: column;
+    padding: 3px 70px;
+}
+#home::before{
+    height: 480px;
+
+}
+#home p{
+    font-size: 15px;
+}
+.h-primary{
+    font-size: 25px;
+}
